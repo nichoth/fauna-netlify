@@ -1,0 +1,22 @@
+{
+  "name": "fauna-netlify",
+  "version": "0.0.0",
+  "description": "Try faunadb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/fauna-netlify.git"
+  },
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/fauna-netlify/issues"
+  },
+  "homepage": "https://github.com/nichoth/fauna-netlify#readme",
+  "devDependencies": {
+    "fauna-shell": "^0.11.4"
+  }
+}
