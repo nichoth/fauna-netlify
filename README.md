@@ -1,7 +1,6 @@
 # faunadb + netlify + ecommerce stuff
 
 https://docs.fauna.com/fauna/current/integrations/netlify.html
-
 https://docs.fauna.com/fauna/current/tutorials/ecommerce.html
 
 ```
