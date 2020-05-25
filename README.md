@@ -13,13 +13,12 @@ netlify addons:auth fauna
 ```
 
 Install the FaunaDB Shell on your computer.
+Need to make a key on the fauna dashboard > security website for the `cloud-login` command.
 
 ```
 npm i -D fauna-shell
 fauna cloud-login
 ```
-
-Need to make a key on the fauna dashboard > security website for the `cloud-login` command.
 
 ```
 fauna create-database ecommerce-tutorial
